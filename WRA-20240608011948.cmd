@@ -54,10 +54,10 @@ set "_onetitle=WinRAR Activator v0.02"
 
 cls
 mode 76, 30
-title %_onetitle% by NaeemBolchhi
+title %_onetitle% by InfernoTV
 echo %_onetitle%
-echo Created by NaeemBolchhi
-echo https://naeembolchhi.github.io/WinRAR-Activator/
+echo Created by InfernoTV
+echo https://infernotv.github.io/WinRAR-Activator/
 echo:
 
 call :RARBIT
